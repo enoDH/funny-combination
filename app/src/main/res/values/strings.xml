@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Funny Combination</string>
+    <string name="emoji_boss">😎</string>
+    <string name="emoji_ops">😅</string>
+    <string name="emoji_funny">😁</string>
+    <string name="emoji_pretty">🥺</string>
+    <string name="emoji_wow">🤯</string>
+
+</resources>
