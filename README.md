@@ -11,4 +11,4 @@ used in the project's design, which is reflected in the code structure.
 
 ## Video
 
-[Video](assets/video.mp4)
+[Video](assets/video1.mp4)
